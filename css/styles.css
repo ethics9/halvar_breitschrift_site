@@ -1,72 +1,72 @@
 @font-face {
     font-family: 'HalvarBreit-Blk';
-    src: url('/fonts/HalvarBreit-Blk.ttf');
+    src: url('../fonts/HalvarBreit-Blk.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-Bd';
-    src: url('/fonts/HalvarBreit-Bd.ttf');
+    src: url('../fonts/HalvarBreit-Bd.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-BlkSu';
-    src: url('/fonts/HalvarBreit-BlkSuSlanted.ttf');
+    src: url('../fonts/HalvarBreit-BlkSuSlanted.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-Lt';
-    src: url('/fonts/HalvarBreit-Lt.ttf');
+    src: url('../fonts/HalvarBreit-Lt.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-LtSu';
-    src: url('/fonts/HalvarBreit-LtSuSlanted.ttf');
+    src: url('../fonts/HalvarBreit-LtSuSlanted.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-MdSl';
-    src: url('/fonts/HalvarBreit-MdSlanted.ttf');
+    src: url('../fonts/HalvarBreit-MdSlanted.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-Md';
-    src: url('/fonts/HalvarBreit-Md.ttf');
+    src: url('../fonts/HalvarBreit-Md.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-Rg';
-    src: url('/fonts/HalvarBreit-Rg.ttf');
+    src: url('../fonts/HalvarBreit-Rg.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-XBd';
-    src: url('/fonts/HalvarBreit-XBd.ttf');
+    src: url('../fonts/HalvarBreit-XBd.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-XTh';
-    src: url('/fonts/HalvarBreit-XTh.ttf');
+    src: url('../fonts/HalvarBreit-XTh.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-Hl';
-    src: url('/fonts/HalvarBreit-Hl.ttf');
+    src: url('../fonts/HalvarBreit-Hl.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'HalvarBreit-Th';
-    src: url('/fonts/HalvarBreit-Th.ttf'), 
+    src: url('../fonts/HalvarBreit-Th.ttf'), 
          url('/fonts/HalvarBreit-Th.woff2') format('woff2'),
          url('/fonts/HalvarBreit-Th.woff') format('woff'),
          url('/fonts/HalvarBreit-Th.eot');
